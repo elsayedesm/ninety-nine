@@ -1159,7 +1159,7 @@ function renderNavbar() {
     <div class="navbar-container">
       <!-- Secret Admin Trigger 1: Triple Click Logo -->
       <div class="brand-logo-container" id="secret-logo-btn">
-        <img src="/logo.png" alt="Ninety Nine Logo" class="brand-logo-img" />
+        <img src="logo.png" alt="Ninety Nine Logo" class="brand-logo-img" />
       </div>
       
       <ul class="nav-menu ${isMobileNavOpen ? 'open' : ''}">
